@@ -12,7 +12,7 @@
   <link href="js/freeze/jquery.dataTables.min.css" rel="stylesheet">
   <style type="text/css">
   th, td { white-space: nowrap; }
-    div.dataTables_wrapper {
+    div.dataTables_wrapper {   
         width: 100%;
         height:550px;
         margin: 0 auto;
